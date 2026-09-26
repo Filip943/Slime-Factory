@@ -1,0 +1,6 @@
+{
+  "name": "Slime Factory",
+  "description": "Idle tycoon game where you cultivate slimes, produce and sell goo, mutate rare breeds, upgrade factories, and conquer new biomes!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
